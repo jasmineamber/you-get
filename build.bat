@@ -1,0 +1,1 @@
+nuitka --onefile --windows-icon-from-ico=logo.jpg  --main=src/you_get  --follow-import-to=src.you_get --python-flag=-m

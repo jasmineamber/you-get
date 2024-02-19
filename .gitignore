@@ -8,10 +8,12 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.venv/
 env/
 build/
+*.exe
 develop-eggs/
-dist/
+*dist/
 downloads/
 eggs/
 .eggs/
@@ -68,7 +70,6 @@ _*
 *.flv
 *.gif
 *.html
-*.jpg
 *.lrc
 *.mkv
 *.mp3
@@ -89,4 +90,3 @@ _*
 *.zip
 
 .vscode
-
